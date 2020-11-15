@@ -1,0 +1,10 @@
+name: TenkiYohou
+version: ${project.version}
+main: whitesiro.tenkiyohou.TenkiYohou
+api-version: 1.16
+authors: [ WhiteSiro ]
+website: github.com/WhiteSiro
+commands:
+  tenki:
+    usage: /tenki
+    description: Get the weather for your chosen prefecture
